@@ -1,5 +1,9 @@
 = Current Projects
 :hp-tags: ArcGIS Server, GIS, Data
 
---Deploying an ArcGIS Server +
+
+
+:hardbreaks:
+
+--Deploying an ArcGIS Server
 --Configuring ArcGIS Portal
