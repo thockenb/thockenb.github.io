@@ -1,9 +1,22 @@
 = Current Projects
 :hp-tags: ArcGIS Server, GIS, Data
 
-
+My position at TCHD is changing. I'm excited to be be joining the new Informatics, Epi and Planning team at TCHD. What we will be doing is kind of a mystery to me and the group right now. 
 
 :hardbreaks:
 
+Here are few subject areas I'm working on or looking at right now:
+--Opioids
+--Health Equity
+--Lead Poisoning
+--MJ and Emergency visits
+
+Technical projects:
 --Deploying an ArcGIS Server
 --Configuring ArcGIS Portal
+
+Other misc:
+--Getting the agency to move from SAS to Python. (blog post to come)
+
+Learning:
+Stanford Machine Learning MOOC
