@@ -1,4 +1,5 @@
-= Blog Title
-:hp-tags: Data science, GIS, Epi
+= Current Projects
+:hp-tags: ArcGIS Server, GIS, Data
 
-this is some text
+--Deploying an ArcGIS Server +
+--Configuring ArcGIS Portal
