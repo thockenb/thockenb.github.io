@@ -1,2 +1,4 @@
 = Blog Title
-= this is some text
+:hp-tags: Data science, GIS, Epi
+
+this is some text
